@@ -1,4 +1,4 @@
-# PROJECT_P05
+# Bitcoin Price Prediction
 Project
 
 The file exploratory-data-analysis contains the eda of the first phase of the project.
